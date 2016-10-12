@@ -1,0 +1,7 @@
+body{
+	background: white url("bg.png");
+}
+.navbar-brand {
+	font-family: 'Satisfy', cursive;
+	font-size: 120%;
+}
